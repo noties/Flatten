@@ -11,7 +11,7 @@ Given a json:
     "second": {
       "third": {
         "forth": {
-          fifth: {
+          "fifth": {
             "hello_here_i_am": true
           }
         }
