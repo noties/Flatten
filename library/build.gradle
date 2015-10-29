@@ -6,3 +6,7 @@ dependencies {
 
     testCompile 'junit:junit:4.12'
 }
+
+if (project.hasProperty('POM_NAME')) {
+    apply from: '../gradle_maven_jar_publish.gradle'
+}
