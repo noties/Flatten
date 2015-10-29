@@ -1,4 +1,5 @@
 # Flatten
+[![Maven Central](https://img.shields.io/maven-central/v/ru.noties/flatten.svg)](http://search.maven.org/#search|ga|1|g%3A%22ru.noties%22%20AND%20a%3A%22flatten%22)
 
 Flatten json response with this simple library (for those who uses Gson for json deserialization).
 
