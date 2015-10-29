@@ -1,4 +1,4 @@
-package ru.noties.gsonflatten;
+package ru.noties.flatten;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

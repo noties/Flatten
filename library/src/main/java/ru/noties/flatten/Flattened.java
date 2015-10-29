@@ -1,4 +1,4 @@
-package ru.noties.gsonflatten;
+package ru.noties.flatten;
 
 /**
  * Created by Dimitry Ivanov on 29.10.2015.

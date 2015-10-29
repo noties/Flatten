@@ -1,4 +1,4 @@
-package ru.noties.gsonflatten;
+package ru.noties.flatten;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

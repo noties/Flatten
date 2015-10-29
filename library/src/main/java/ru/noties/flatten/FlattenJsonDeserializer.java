@@ -1,4 +1,4 @@
-package ru.noties.gsonflatten;
+package ru.noties.flatten;
 
 import com.google.gson.JsonDeserializationContext;
 import com.google.gson.JsonDeserializer;
